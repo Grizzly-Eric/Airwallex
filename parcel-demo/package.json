@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "react": "parcel index-react.html",
-    "vue": "parcel index-vue.html",
-    "ts": "parcel index-ts.html"
+    "react": "parcel index-react.html"
   },
   "author": "linxin",
   "license": "ISC",
