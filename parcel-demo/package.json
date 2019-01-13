@@ -6,7 +6,7 @@
   "scripts": {
     "react": "parcel index-react.html"
   },
-  "author": "linxin",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "babel-preset-env": "^1.6.1",
